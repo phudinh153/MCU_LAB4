@@ -1,0 +1,7 @@
+software_timer.c:18:6:setLEDTimer	16	static
+software_timer.c:24:6:setCOMTimer	16	static
+software_timer.c:30:6:setSYSTimer	16	static
+software_timer.c:37:5:checkLED	4	static
+software_timer.c:45:5:checkSYS	4	static
+software_timer.c:53:5:checkCOM	4	static
+software_timer.c:61:6:timerRun	4	static

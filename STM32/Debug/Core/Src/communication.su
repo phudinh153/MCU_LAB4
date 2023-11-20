@@ -1,0 +1,2 @@
+communication.c:11:6:uart_communication_fsm	8	static
+communication.c:36:6:readSensor	64	static

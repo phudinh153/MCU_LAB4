@@ -1,0 +1,2 @@
+led.c:11:6:ledBlink	8	static
+led.c:15:6:led_fsm	8	static
